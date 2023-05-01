@@ -1,2 +1,2 @@
 # javascript_2023
- Intro to JAvascript and the MERN Stack
+ Intro to Javascript and the MERN Stack
